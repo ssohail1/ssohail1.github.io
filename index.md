@@ -1,5 +1,20 @@
-# Hi I'm Sidra Sohail! I am a Research Assistant and M.S. student at Loyola University Chicago.
+Sidra Sohail
 
+# Hi I'm Sidra Sohail! I am a Research Assistant and M.S. student at Loyola University Chicago.
+![Image](Sidra.png)
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2><strong>Hi Sidra Sohail...<strong></h2>
+
+<p><b>Research Assistant | M.S. Bioinformatics | Burns Lab <b></p>
+
+<img src="Sidra.png" style="float:left;width:400px;height:400px;">
+
+</body>
+<html>
 
 ## Research Assistant
 [Burns Lab](https://www.burns-lab.org/)
