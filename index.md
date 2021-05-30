@@ -1,4 +1,4 @@
-# I am a graduate research assistant and M.S. student at Loyola University Chicago studying Bioinformatics.
+# Graduate Research Assistant at the [Burns Lab](https://www.burns-lab.org/)
 
 <!DOCTYPE html>
 <html>
