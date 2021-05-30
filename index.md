@@ -7,15 +7,6 @@
 
 
 
-<!-- Navbar -->
-<div class="w3-bottom">
-  </li>
-  <li class="w3-hide-small"><a href="https://github.com/ssohail1" class="w3-hover-purple">Github</a></li>
-  <li class="w3-hide-small"><a href="https://www.burns-lab.org/people" class="w3-hover-purple">Burns Lab</a></li>
- </ul>
-</div>
-
-
 <!-- Row -->
 <div class="w3-row-padding w3-padding-64 w3-theme-l1">
 
