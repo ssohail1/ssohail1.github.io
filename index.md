@@ -30,7 +30,6 @@
     <div class="w3-col m5">
       <h3>Email</h3>
       <p>ssohail@luc.edu</p>
-       </li>
        <li class="w3-hide-small"><a href="https://github.com/ssohail1" class="w3-hover-purple">Github</a></li>
        <li class="w3-hide-small"><a href="https://www.burns-lab.org/people" class="w3-hover-purple">Burns Lab</a></li>
     </div>
