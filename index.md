@@ -1,7 +1,4 @@
-<!DOCTYPE html>
 <html>
- <!-- Theme Made By www.w3schools.com - No Copyright -->
- <title>Sidra Sohail</title>
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <link rel="stylesheet" href="../lib/w3.css">
  <link rel="stylesheet" href="../lib/w3-theme-orange.css">
@@ -19,21 +16,9 @@
   <li class="w3-hide-small"><a href="https://github.com/ssohail1" class="w3-hover-purple">Github</a></li>
   <li class="w3-hide-small"><a href="https://www.burns-lab.org/people" class="w3-hover-purple">Burns Lab</a></li>
   </li>
-  <li class="w3-hide-small w3-right"><a href="#" class="w3-hover-purple" title="Search"><i class="fa fa-search"></i></a></li>
  </ul>
 </div>
 
-
-<!-- Container -->
-<div class="w3-container w3-padding-64 w3-center">
-<h2>Sidra Sohail</h2>	
-<p>BS Molecular Biology & MS Bioinformatics | Loyola University Chicago</p>
-
-<div class="w3-row"><br>
-
-
-</div>
-</div>
 
 <!-- Row -->
 <div class="w3-row-padding w3-padding-64 w3-theme-l1">
@@ -45,8 +30,6 @@
 
 <div class="w3-quarter">
   <img src="Sidra.png" style="float:right;width:400px;height:400px;">
-  </div>
-  </div>
 </div>
 
 
@@ -58,7 +41,6 @@
 <div class="w3-container w3-padding-64 w3-theme-l5">
   <div class="w3-row">
     <div class="w3-col m5">
-    <div class="w3-padding-16"><span class="w3-xlarge w3-border-purple w3-bottombar">Contact</span></div>
       <h3>Email</h3>
       <p>ssohail@luc.edu</p>
       
