@@ -1,0 +1,138 @@
+<html lang="en">
+<head>
+<title>Sidra Sohail</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Header/logo Title */
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #FF8C00;
+  color: white;
+}
+
+/* Increase the font size of the heading */
+.header h1 {
+  font-size: 45px;
+}
+
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #F0FFFF;
+  color: black;
+}
+
+/* Column container */
+.row {  
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  -ms-flex: 45%; /* IE10 */
+  flex: 45%; /* IE10 */
+  background-color: #fee0c2;
+  padding: 20px;
+}
+
+/* Main column */
+.main {   
+  -ms-flex: 55%; /* IE10 */
+  flex: 55%; /* IE10 */
+  background-color: #d3f8d3;
+  padding: 20px;
+}
+
+/* Fake image, just for this example */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #FF8C00;
+  color: #32CD32
+  
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row {   
+    flex-direction: column;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .navbar a {
+    float: none;
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Sidra Sohail</h1>
+  <p><b>BS Molecular Biology & MS Bioinformatics | Loyola University Chicago</b></p>
+</div>
+
+
+<div class="row">
+  <div class="side">
+    <h3>Hi I'm Sidra Sohail! I am a graduate research assistant at the Burns Lab, and I'm currently a M.S. student at Loyola University Chicago studying bioinformatics.</h3>
+    <img src="Sidra.png" alt="Me" width="104" height="142"><br>
+    <p><b>Contact</b></p>
+    <p>Email: ssohail@luc.edu</p><br>
+  </div>
+  <div class="main">
+    <h2>Presentations</h2>
+    <p>Great Lakes Bioinformatics Conference - May 2021 (Virtual) & Presented: Integrating Current Analyses of the Breast Cancer Microbiome</p>
+    <p>Loyola University Chicago's 14th Annual Interdisciplinary Graduate Research Symposium - March 2021 (Virtual) & Presented: Integrating Current Analyses of the Breast Cancer Microbiome</p>
+    <p>American Society for Microbiology - June 2020 (Virtual) & Presented: Human Steroid Hormones Influence Gut Microbial Community Structure</p>
+    <br>
+    <h2>Graduate Courses</h2> /*insert image of proteins, python, and R
+    <p>Bioinformatics Research Design</p>
+    <img src="pythonr.png" alt="pythonR" style="float:right;width:100px;height:100px;">
+    <p>Bioinformatics</p>
+    <img src="protein.png" alt="Hexokinase1QHA" style="float:right;width:100px;height:100px;">
+    <p>Exploring Proteins</p>
+    <p>Advanced Bioinformatics</p>
+    <img src="microbe.png" alt="microbes" style="float:right;width:100px;height:100px;">
+    <p>Microbiology</p>
+  </div>
+</div>
+
+<div class="footer">
+  <h3><a href="https://github.com/ssohail1/">Github</a></h3>
+  <h3><a href="https://twitter.com/Sidra_453">Twitter</a></h3>
+</div>
+
+</body>
+</html>
